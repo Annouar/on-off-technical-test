@@ -1,0 +1,101 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<CallCard  /> should match snapshot 1`] = `
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-flow: row nowrap;
+  -ms-flex-flow: row nowrap;
+  flex-flow: row nowrap;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  padding: 20px;
+  background-color: white;
+  border: 1px solid;
+  border-radius: 20px;
+}
+
+.c0:hover {
+  border: 2px solid green;
+}
+
+.c3 {
+  -webkit-flex-basis: 60%;
+  -ms-flex-preferred-size: 60%;
+  flex-basis: 60%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-flow: column nowrap;
+  -ms-flex-flow: column nowrap;
+  flex-flow: column nowrap;
+}
+
+.c4 {
+  color: #a9aaac;
+}
+
+.c5 {
+  color: #a7a9aa;
+}
+
+.c1 {
+  background-color: #ccc;
+  border-radius: 50%;
+  height: 4rem;
+  text-align: center;
+  width: 4rem;
+}
+
+.c2 {
+  font-size: 2rem;
+  line-height: 1;
+  position: relative;
+  top: 1rem;
+}
+
+<div
+  class="c0"
+>
+  <div
+    class="c1"
+  >
+    <span
+      class="c2"
+    >
+      #
+    </span>
+  </div>
+  <div
+    class="c3"
+  >
+    <span
+      class=""
+    >
+      +
+      33629210017
+    </span>
+    <span
+      class="c4"
+    >
+      Mobile
+    </span>
+  </div>
+  <span
+    class="c5"
+  >
+    10
+    :
+    20
+  </span>
+</div>
+`;

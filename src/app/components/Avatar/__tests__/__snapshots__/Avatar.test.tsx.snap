@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Avatar  /> should match snapshot 1`] = `
+.c0 {
+  background-color: #ccc;
+  border-radius: 50%;
+  height: 4rem;
+  text-align: center;
+  width: 4rem;
+}
+
+.c1 {
+  font-size: 2rem;
+  line-height: 1;
+  position: relative;
+  top: 1rem;
+}
+
+<div
+  class="c0"
+>
+  <span
+    class="c1"
+  >
+    #
+  </span>
+</div>
+`;
